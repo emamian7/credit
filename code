@@ -1,4 +1,4 @@
-
+# The eligibility of customer for loans using application_train.csv data from Home Credit
 Logistic Regression with PCA:
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
